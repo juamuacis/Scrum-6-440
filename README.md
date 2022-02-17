@@ -1,2 +1,2 @@
-# Scrum-7-440
+# Scrum-6-440
 Group Project
