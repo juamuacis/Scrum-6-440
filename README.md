@@ -4,7 +4,7 @@
 
 | To Do | In Progress | Ready for Testing | Done | On Hold | Delivered |
 | --- | --- | --- | --- | --- | --- |
-| F16: Create Visibil Webpage | | | | | |
+| F16: Create Visible Webpage | | | | | |
 | F01: Create Log in with valid credentials | | | | | |
 | F02: Sell items from website | | | | | |
 | F03: Buy items from website | | | | | |
