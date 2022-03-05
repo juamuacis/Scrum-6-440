@@ -16,7 +16,7 @@
 
 
 | To Do | In Progress | Ready for Testing | Done | On Hold | Delivered |
-| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 || | | | | |
 | | | | | | |
 | | | | | | |
