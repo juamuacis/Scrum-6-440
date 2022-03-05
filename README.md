@@ -1,6 +1,6 @@
 # Scrum-6-440
 # Web Page : https://juamuacis.github.io/Scrum-6-440/
-## Group Project Iteration - Spring Backlog
+## Group Project Iteration - Sprint Backlog
 
 
 | To Do | In Progress | Ready for Testing | Done | On Hold | Delivered |
