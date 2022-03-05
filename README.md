@@ -5,7 +5,7 @@
 
 | To Do | In Progress | Ready for Testing | Done | On Hold | Delivered |
 | --- | --- | --- | --- | --- | --- |
-| U01: User is able to create profile and log in with school email |  | |  | | |
+|  | U01: User is able to create profile and log in with school email  | |  | | |
 | U02: User can post several items  |  | | | | |
 | U03: User can post pictures |  | |  | | |
 | U04: User can see items for sale| | | | | |
