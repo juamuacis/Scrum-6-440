@@ -1,6 +1,6 @@
 # Scrum-6-440
 # Web Page : https://juamuacis.github.io/Scrum-6-440/
-## Group Project Iteration - Sprint Backlog
+## Group Project Iteration - Feature Backlog Milestones
 
 
 | To Do | In Progress | Ready for Testing | Done | On Hold | Delivered |
