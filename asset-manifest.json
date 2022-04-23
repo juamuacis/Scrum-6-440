@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Scrum-6-440/static/css/main.3c0b00cf.css",
-    "main.js": "/Scrum-6-440/static/js/main.6bb2b96e.js",
+    "main.js": "/Scrum-6-440/static/js/main.734c0ad2.js",
     "static/js/787.c1772abb.chunk.js": "/Scrum-6-440/static/js/787.c1772abb.chunk.js",
     "static/media/campus.png": "/Scrum-6-440/static/media/campus.febe1b4a88d7e41d7be7.png",
     "index.html": "/Scrum-6-440/index.html",
     "main.3c0b00cf.css.map": "/Scrum-6-440/static/css/main.3c0b00cf.css.map",
-    "main.6bb2b96e.js.map": "/Scrum-6-440/static/js/main.6bb2b96e.js.map",
+    "main.734c0ad2.js.map": "/Scrum-6-440/static/js/main.734c0ad2.js.map",
     "787.c1772abb.chunk.js.map": "/Scrum-6-440/static/js/787.c1772abb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c0b00cf.css",
-    "static/js/main.6bb2b96e.js"
+    "static/js/main.734c0ad2.js"
   ]
 }
