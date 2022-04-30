@@ -1,0 +1,23 @@
+.header {
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'center'
+}
+
+.body{
+
+}
+
+.campus{
+
+}
+
+.statement{
+    display: 'flex';
+    overflow: 'hidden';
+    border-left: '1 em solid transparent';
+    border-right: '1 em solid transparent';
+    text-overflow: 'ellipsis';
+    max-width: '500px'
+}
+
