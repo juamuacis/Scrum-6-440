@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Scrum-6-440/static/css/main.2b3aa2d6.css",
-    "main.js": "/Scrum-6-440/static/js/main.6f6d5fd7.js",
+    "main.css": "/Scrum-6-440/static/css/main.dec74637.css",
+    "main.js": "/Scrum-6-440/static/js/main.f53f8c35.js",
     "static/js/787.c1772abb.chunk.js": "/Scrum-6-440/static/js/787.c1772abb.chunk.js",
     "static/media/campus.png": "/Scrum-6-440/static/media/campus.febe1b4a88d7e41d7be7.png",
     "index.html": "/Scrum-6-440/index.html",
-    "main.2b3aa2d6.css.map": "/Scrum-6-440/static/css/main.2b3aa2d6.css.map",
-    "main.6f6d5fd7.js.map": "/Scrum-6-440/static/js/main.6f6d5fd7.js.map",
+    "main.dec74637.css.map": "/Scrum-6-440/static/css/main.dec74637.css.map",
+    "main.f53f8c35.js.map": "/Scrum-6-440/static/js/main.f53f8c35.js.map",
     "787.c1772abb.chunk.js.map": "/Scrum-6-440/static/js/787.c1772abb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b3aa2d6.css",
-    "static/js/main.6f6d5fd7.js"
+    "static/css/main.dec74637.css",
+    "static/js/main.f53f8c35.js"
   ]
 }
